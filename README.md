@@ -1,27 +1,27 @@
 <div align="center">
 
-<!-- 🎌 Neon Japanese Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a40,100:000000&height=130&section=header&text=冬の影%20|%20Arjun&fontSize=30&fontColor=00f7ff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<!-- 🔥 Neon Header (Smaller, Clean) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a40,100:000000&height=120&section=header&text=Arjun%20A%20S&fontSize=28&fontColor=00f7ff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<!-- 🥷 Neon Samurai GIF -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200"/>
+<!-- 🥷 Samurai GIF -->
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="180"/>
 
-<!-- 🔥 Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Flutter+%7C+Flask+Engineer;REST+API+Architect;System+Level+Thinker;冬の影+-+Winter+Shadow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Flutter+%7C+Flask+Engineer;REST+API+Architect;Clean+Code+Builder" />
 </p>
 
 </div>
 
 ---
 
-## 🥷 Developer Profile
+## 👨‍💻 About Me
 
 ```diff
-+ Full-Stack Engineer
-+ Flutter Mobile Developer
-+ Flask Backend Architect
-+ REST API Builder
++ Full-Stack Developer
++ Flutter Mobile Engineer
++ Flask Backend Developer
++ REST API Specialist
 + Git & System Programming Enthusiast
 ```
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚔️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,dart,c,java,flutter,flask,fastapi,git,docker,linux,postgres,firebase,vscode" />
@@ -41,18 +41,19 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=winternFX&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
-<img height="150" src="https://streak-stats.demolab.com?user=winternFX&theme=tokyonight&hide_border=true&ring=00f7ff&fire=ff00ff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=winternFX&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
+
+<img height="150" src="https://streak-stats.demolab.com?user=winternFX&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧬 Activity Matrix
+## 🧬 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=winternFX&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=winternFX&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -70,8 +71,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a40,100:0f0c29&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a40,100:0f0c29&height=80&section=footer"/>
 
-### ⚡ 冬の影 — Online & Coding ⚡
+### ⚡ winternFX — Online & Coding ⚡
 
 </div>
