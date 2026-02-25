@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=WINTERNFX&height=150&fontSize=80&desc=Full-Stack%20Developer%20|%20ML%20Enthusiast&descAlignY=75&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=ARJUN&height=150&fontSize=80&desc=Full-Stack%20Developer%20|%20ML%20Enthusiast&descAlignY=75&descAlign=50&animation=twinkling" width="100%"/>
 
 <!-- Animated Typing Effect -->
 <p align="center">
@@ -31,13 +31,11 @@
 const WinternFX = {
     role: "Full-Stack Developer",
     location: "Digital Realm 🌐",
-    code: ["Python", "C", "JavaScript", "Dart", "SQL"],
+    code: ["Python", "Dart", "C", "Java"],
     technologies: {
         mobile: ["Flutter"],
-        backend: ["Flask", "FastAPI", "Node.js"],
-        frontend: ["HTML", "CSS", "JavaScript"],
-        databases: ["PostgreSQL", "Firebase", "MongoDB"],
-        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        backend: ["Flask", "FastAPI"],
+        databases: ["PostgreSQL", "Firebase"],
         tools: ["Git", "Docker", "Linux", "VS Code"]
     },
     currentFocus: "Building scalable applications with AI integration",
@@ -60,30 +58,22 @@ const WinternFX = {
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,dart,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,dart,c,java&theme=dark" alt="Languages" />
 </p>
 
-<!-- Frameworks & Libraries -->
+<!-- Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,nodejs,react&theme=dark" alt="Frameworks" />
-</p>
-
-<!-- AI/ML -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi&theme=dark" alt="Frameworks" />
 </p>
 
 <!-- Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase,mongodb,redis,mysql&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase&theme=dark" alt="Databases" />
 </p>
 
 <!-- Tools & Platforms -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools" />
 </p>
 
 </div>
@@ -144,13 +134,13 @@ const WinternFX = {
 <br/><br/>
 📱 Flutter Mobile Apps
 <br/>
-🌐 Flask Backend APIs
+🌐 Flask/FastAPI Backend
 <br/>
-🤖 ML-Powered Features
+🤖 ML Model Integration
 <br/>
-🗃️ Scalable Databases
+🗃️ PostgreSQL Databases
 <br/>
-☁️ Cloud Solutions
+☁️ Firebase Solutions
 
 </td>
 <td align="center" width="50%">
@@ -265,7 +255,7 @@ const WinternFX = {
 
 ### ⚡ **SYSTEM.STATUS: ONLINE** ⚡
 
-**Made with 💙 by WinternFX**
+**Made with 💙 by Arjun**
 
 <img src="https://visitcount.itsvg.in/api?id=winternFX&icon=5&color=1" alt="Visit Counter" />
 
