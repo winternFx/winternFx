@@ -22,29 +22,62 @@
 
 <br/>
 
-<!-- About Me Section with Cyberpunk Aesthetic -->
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif"/>
+<!-- About Me Section - Redesigned Digital Look -->
+<div align="center">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **SYSTEM.PROFILE**
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **WHO AM I?**
 
-```javascript
-const WinternFX = {
-    role: "Full-Stack Developer",
-    location: "Digital Realm 🌐",
-    code: ["Python", "Dart", "C", "Java"],
-    technologies: {
-        mobile: ["Flutter"],
-        backend: ["Flask", "FastAPI"],
-        databases: ["PostgreSQL", "Firebase"],
-        tools: ["Git", "Docker", "Linux", "VS Code"]
-    },
-    currentFocus: "Building scalable applications with AI integration",
-    contact: "arjunashinodkvkl@gmail.com",
-    funFact: "I debug faster at 3 AM ⚡"
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 **PROFESSIONAL**
+```yaml
+role: Full-Stack Developer
+specialization: 
+  - Mobile Development
+  - Backend APIs
+  - Database Design
+  - ML Integration
+status: Available for collaboration
 ```
 
-<br clear="right"/>
+#### 🎯 **CURRENT FOCUS**
+- 🚀 Building scalable applications
+- 🤖 Integrating AI/ML models
+- 📱 Flutter mobile apps
+- 🌐 Backend API development
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ **TECH STACK**
+```yaml
+languages:
+  - Python
+  - Dart
+  - C
+  - Java
+
+frameworks:
+  - Flutter
+  - Flask
+  - FastAPI
+
+databases:
+  - PostgreSQL
+  - Firebase
+```
+
+#### 📫 **CONTACT**
+- ✉️ arjunashinodkvkl@gmail.com
+- 💡 Always open to new ideas!
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -56,24 +89,14 @@ const WinternFX = {
 
 ### ⚡ **TECH.ARSENAL** ⚡
 
-<!-- Languages -->
+#### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,c,java&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,dart,c,java,flutter,flask,fastapi&theme=dark" alt="Tech Stack" />
 </p>
 
-<!-- Frameworks -->
+#### **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi&theme=dark" alt="Frameworks" />
-</p>
-
-<!-- Databases -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase&theme=dark" alt="Databases" />
-</p>
-
-<!-- Tools & Platforms -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase,git,github,docker,linux,vscode&theme=dark" alt="Tools" />
 </p>
 
 </div>
@@ -86,7 +109,7 @@ const WinternFX = {
 <!-- GitHub Stats Section with Cyberpunk Theme -->
 <div align="center">
 
-### 📊 **SYSTEM.STATS**
+### 📊 **GITHUB.ANALYTICS**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=winternFX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=15&ring_color=00d9ff" alt="GitHub Stats" />
@@ -108,7 +131,7 @@ const WinternFX = {
 <!-- Trophies Section -->
 <div align="center">
 
-### 🏆 **ACHIEVEMENTS.UNLOCKED**
+### 🏆 **ACHIEVEMENTS**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=winternFX&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
@@ -121,41 +144,29 @@ const WinternFX = {
 
 <br/>
 
-<!-- Current Focus -->
+<!-- Projects Showcase -->
 <div align="center">
 
-### 🎯 **MISSION.ACTIVE**
+### 🚀 **WHAT I DO**
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**🚀 BUILDING**
-<br/><br/>
-📱 Flutter Mobile Apps
-<br/>
-🌐 Flask/FastAPI Backend
-<br/>
-🤖 ML Model Integration
-<br/>
-🗃️ PostgreSQL Databases
-<br/>
-☁️ Firebase Solutions
+#### 📱 **MOBILE**
+Flutter apps with<br/>beautiful UIs and<br/>smooth performance
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**📚 LEARNING**
-<br/><br/>
-🧠 Advanced ML/DL
-<br/>
-🏗️ System Architecture
-<br/>
-🐳 Docker & Kubernetes
-<br/>
-⚡ Performance Optimization
-<br/>
-🔐 Security Best Practices
+#### 🌐 **BACKEND**
+Scalable APIs with<br/>Flask & FastAPI for<br/>robust applications
+
+</td>
+<td align="center" width="33%">
+
+#### 🗄️ **DATABASE**
+PostgreSQL & Firebase<br/>for reliable data<br/>management
 
 </td>
 </tr>
@@ -171,7 +182,7 @@ const WinternFX = {
 <!-- Contribution Snake -->
 <div align="center">
 
-### 🐍 **CONTRIBUTION.MATRIX**
+### 🐍 **CONTRIBUTION.GRAPH**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winternFX/winternFX/output/github-contribution-grid-snake-dark.svg">
@@ -189,7 +200,7 @@ const WinternFX = {
 <!-- Connect Section -->
 <div align="center">
 
-### 💬 **CONNECT.PROTOCOL**
+### 💬 **LET'S CONNECT**
 
 <p align="center">
   <a href="mailto:arjunashinodkvkl@gmail.com">
@@ -219,7 +230,7 @@ const WinternFX = {
 <!-- Quote Section -->
 <div align="center">
 
-### 💭 **RANDOM.WISDOM**
+### 💭 **DEV.QUOTE**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=00d9ff" alt="Random Dev Quote" />
 
@@ -227,22 +238,17 @@ const WinternFX = {
 
 <br/>
 
-<!-- Fun Facts -->
+<!-- Fun Facts in Clean Format -->
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  "Code is like humor. When you have to explain it,         ║
-║   it's bad." - Cory House                                   ║
-║                                                              ║
-║  ⚡ Late night coding sessions are the best                 ║
-║  ☕ Powered by coffee and determination                     ║
-║  🎮 When not coding, probably gaming                        ║
-║  🌙 Night owl developer                                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### ⚡ **FUN.FACTS**
+
+| | |
+|:---:|:---|
+| 🌙 | Night owl developer |
+| ☕ | Powered by coffee |
+| 🎮 | Gaming enthusiast |
+| 🔥 | I debug faster at 3 AM |
 
 </div>
 
@@ -253,7 +259,7 @@ const WinternFX = {
 
 <div align="center">
 
-### ⚡ **SYSTEM.STATUS: ONLINE** ⚡
+### ⚡ **STATUS: ONLINE** ⚡
 
 **Made with 💙 by Arjun**
 
