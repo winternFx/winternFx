@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm WinternFX
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+ML+Enthusiast;Full-Stack+Developer;Database+Architect;Building+The+Future+With+Code+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+ML+Enthusiast;Database+Architect;Mobile+%26+Web+Developer;Building+The+Future+With+Code+%F0%9F%9A%80)
 
 </div>
 
@@ -34,7 +34,7 @@
 class WinternFX:
     def __init__(self):
         self.name = "WinternFX"
-        self.role = "AI Engineer | Full-Stack Developer"
+        self.role = "Full-Stack Developer | ML Enthusiast"
         self.language_spoken = ["Python", "C", "en_US"]
         self.contact = "arjunashinodkvkl@gmail.com"
         
