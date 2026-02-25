@@ -1,51 +1,75 @@
-# Hi 👋 I'm Arjun A S
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arjun%20A%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-💻 Flutter & Flask Developer  
-📱 Building scalable mobile & backend systems  
-🇮🇳 India  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Flask+Backend+Developer;REST+API+Builder;Clean+Code+Enthusiast" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- Backend developer specializing in Flask & REST APIs  
-- Mobile app developer using Flutter  
-- Strong fundamentals in system-level programming  
-- Focused on writing clean, maintainable, production-ready code  
+- 💻 Flutter & Flask Developer  
+- 🔧 Backend engineer building REST APIs  
+- 🧠 Strong foundation in C & system programming  
+- ⚡ Passionate about scalable and clean architecture  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,dart,c" />
+</p>
 
 ### 📱 Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
 ### 🔧 Backend & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flask,git" />
+<img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=winternFX&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=winternFX&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winternFX&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winternFX&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=winternFX&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winternFX&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: yourmail@gmail.com
+📧 Email: **arjunashinodkvkl@gmail.com**
 
 ---
 
-⭐️ From [winternFX](https://github.com/winternFX)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
